@@ -64,7 +64,7 @@ Key engineered features include:
 ---
 
 ## Model Performance
-*(Replace with your actual scores)*
+
 
 - Accuracy: ~0.80  
 - F1 Score: ~0.78  
