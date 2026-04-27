@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-scikit-learn
-xgboost
-cloudpickle
-shap
-matplotlib
+streamlit==1.33.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.6.1
+xgboost==2.0.3
+cloudpickle==3.0.0
+shap==0.44.1
+matplotlib==3.8.4
